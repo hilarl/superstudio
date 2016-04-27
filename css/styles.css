@@ -1,0 +1,132 @@
+body {
+  color: #4A4A4A;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#Header {
+  background: #FEF259;
+  text-align: center;
+  padding-bottom: 145px;
+}
+
+#Header h1 {
+  font-size: 52px;
+  font-weight: bold;
+  margin-top: 65px;
+}
+
+#Header h2 {
+  font-weight: 100;
+}
+
+#Logo {
+  margin: 65px 0;
+  height: 60px;
+}
+
+#DarkArea {
+  background: #4A4A4A;
+}
+
+#DarkArea {
+  padding: 50px 0;
+}
+
+.colmn {
+  text-align: center;
+  color: white;
+  padding: 15px 45px;
+}
+
+.colmn img {
+  height: 50px;
+}
+
+.colmn h4 {
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.colmn h5 {
+  font-size: 14px;
+  font-weight: 100;
+  line-height: 25px;
+}
+
+#Clients {
+  padding: 50px 0;
+}
+
+.cli {
+  padding: 15px 0;
+  text-align: center;
+}
+
+.cli img {
+  height: 60px;
+}
+
+#Companies {
+  text-align: center;
+  margin-top: 35px;
+}
+
+#Companies h3 {
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 25px;
+}
+
+#Dreams {
+  text-align: center;
+  color: white;
+}
+
+#Dreams h3 {
+  font-weight: 100;
+  font-size: 24px;
+  margin-top: 15px;
+  margin-bottom: 45px;
+}
+
+#SubFooter {
+  text-align: center;
+}
+
+#SubFooter h3 {
+  margin: 55px 0;
+  font-weight: 100;
+  margin-bottom: 15px;
+}
+
+#SubFooter a {
+  color: #4A4A4A;
+  text-decoration: none;
+  font-weight: 800;
+}
+
+#Footer {
+  margin-top: 65px;
+  text-align: center;
+}
+
+#Twitter img {
+  height: 50px;
+}
+
+#Tag {
+  display: block;
+  text-decoration: none;
+  color: #4A4A4A;
+  margin: 15px 0;
+  font-size: 20px;
+  font-weight: 100;
+}
+
+#Love {
+  font-weight: 800;
+}
+
+.clear {
+  clear: both;
+}
